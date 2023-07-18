@@ -28,7 +28,7 @@ This project is a YouTube Multi Audio Video Downloader developed using Python an
 
 3. Run the application:
    ```
-   python main.py
+   python yt_downloader.py
    ```
 
 4. The application window will appear, allowing you to input the YouTube video URL and select the desired options for video quality and audio format. Click the "Download" button to initiate the download process.
