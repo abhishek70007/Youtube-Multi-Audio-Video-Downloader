@@ -18,7 +18,7 @@ This project is a YouTube Multi Audio Video Downloader developed using Python an
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/youtube-multi-audio-video-downloader.git
+   git clone https://github.com/abhishek70007/youtube-multi-audio-video-downloader.git
    ```
 
 2. Install the required dependencies:
